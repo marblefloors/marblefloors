@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact)](https://github.com/marblefloors/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6)](https://github.com/marblefloors/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6)](https://github.com/marblefloors)
 
 
 
