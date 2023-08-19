@@ -4,7 +4,13 @@
 ### :ghost: Обо мне:
 Я начинающий web-разработчик. Работал в крипте на сейлах и дропах, также пробовал себя в 3D-моделировании, но за последние 2 года с головой ушел в мир веба. За это время я сверстал несколько интересных проектов, например сайт для университета СПбПУ и сайт "Mogo" для частного заказчика. Параллельно с обучением в университете, на онлайн-курсах, изучал такие языки, как: Java, C++, C#, Python. На данный момент я нахожусь в поисках работы и параллельно пишу сайт для компании, занимающейся организацией свадеб.
 
-### :wave: Социальные сети:
+<h3 align="left"> :wave: Социальные сети:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 **[VKontakte](http://example.com/ "Необязательная подсказка")**
 
