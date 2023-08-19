@@ -12,13 +12,17 @@
 <a href="https://www.youtube.com/channel/UC1H3AN3V7YcJoSPQquURYtw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> :wave: Навыки:</h3>
+<h3 align="left"> :wave: Мои навыки:</h3>
+<p align="left">
+
+<h3 align="left"> :wave: Мои инструменты:</h3>
+<p align="left">
+
+<h3 align="left"> :wave: Моя GitHub-статистика:</h3>
 <p align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact)](https://github.com/marblefloors)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage)](https://github.com/marblefloors)
 [![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&)](https://github.com/marblefloors)
 
 
