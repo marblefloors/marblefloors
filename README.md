@@ -1,3 +1,4 @@
+[![MasterHead](https://sun9-72.userapi.com/impg/VHwz3hGJ7I-9uH3NO1s9TwVuU2pHkYp2l26WoA/rsjTRX7bEAw.jpg?size=1725x691&quality=96&sign=6ad7a79accf760451f4ec8f3c631d096&type=album)](https://github.com/marblefloors)
 # Привет, Меня зовут Денис!
 
 ### :ghost: Обо мне:
@@ -11,10 +12,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact)](https://github.com/marblefloors/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact)](https://github.com/marblefloors)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6)](https://github.com/marblefloors)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&)](https://github.com/marblefloors)
 
 
