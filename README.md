@@ -1,4 +1,4 @@
-[![MasterHead](https://sun9-72.userapi.com/impg/VHwz3hGJ7I-9uH3NO1s9TwVuU2pHkYp2l26WoA/rsjTRX7bEAw.jpg?size=1725x691&quality=96&sign=6ad7a79accf760451f4ec8f3c631d096&type=album)](https://github.com/marblefloors)
+[![MasterHead](https://sun9-7.userapi.com/impg/prRBYBOIeQ8TCa1sdo6NXVb4cTtGJGIb4xxDrQ/RhlZbVNX8Hs.jpg?size=1725x691&quality=96&sign=340817bf69590383153e3f3d38e3b384&type=album)](https://github.com/marblefloors)
 # Привет, Меня зовут Денис!
 
 ### :ghost: Обо мне:
@@ -6,10 +6,10 @@
 
 <h3 align="left"> :wave: Социальные сети:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://vk.com/den.gordeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
+<a href="https://t.me/d_gordeev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/denya.gordeev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1H3AN3V7YcJoSPQquURYtw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 **[VKontakte](http://example.com/ "Необязательная подсказка")**
