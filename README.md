@@ -17,26 +17,26 @@
 
 ### :computer: Мои навыки:
 <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/480/javascript--v1.png" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/react-native.png" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/nodejs.png" alt="" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" /> </a>  
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/480/c-plus-plus-logo.png" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/c-sharp-logo.png" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/javascript--v1.png" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/react-native.png" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/nodejs.png" alt="" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" /> </a>  
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/c-plus-plus-logo.png" width="40" height="40" /> </a>
+    <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/c-sharp-logo.png" width="40" height="40" /> </a>
 </p>
 
 ### :wrench: Мои инструменты
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/unity.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/480/canva.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/unity.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/canva.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
+<a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
 
 ### :zap: Моя GitHub-статистика:
 <img src="https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true" alt="" width="52.5%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage" alt="" width="47%"/>
