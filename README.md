@@ -34,6 +34,6 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
 
 ### :wave: Моя GitHub-статистика:
-<img src="https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true" alt="" width="49%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage" alt="" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=marblefloors&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D" alt="" width="50%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&" alt="" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true" alt="" width="52.5%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage" alt="" width="47%"/>
+<img src="https://streak-stats.demolab.com/?user=marblefloors&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D" alt="" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&" alt="" width="100%"/>
