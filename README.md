@@ -4,6 +4,11 @@
 ### :ghost: Обо мне:
 Я начинающий web-разработчик. Работал в крипте на сейлах и дропах, также пробовал себя в 3D-моделировании, но за последние 2 года с головой ушел в мир веба. За это время я сверстал несколько интересных проектов, например сайт для университета СПбПУ и сайт "Mogo" для частного заказчика. Параллельно с обучением в университете, на онлайн-курсах, изучал такие языки, как: Java, C++, C#, Python. На данный момент я нахожусь в поисках работы и параллельно пишу сайт для компании, занимающейся организацией свадеб.
 
+За последние 2 года я:
++ :pushpin: Прошел курсы по Web-программированию, Python и DataBase
++ :briefcase: Сверстал несколько сайтов на заказ
++ :mortar_board: Окончил Санкт-Петербургский политехнический университет Петра Великого и получил высшее образование :tada:
+
 ### :speech_balloon: Социальные сети:
 <a href="https://vk.com/den.gordeev" target="blank"><img align="center" src="https://img.icons8.com/color/480/vk-circled--v1.png" alt="" height="40" width="40" /></a>
 <a href="https://t.me/d_gordeev" target="blank"><img align="center" src="https://img.icons8.com/color/480/telegram-app--v1.png" alt="" height="40" width="40"/></a>
@@ -33,7 +38,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
 
-### :wave: Моя GitHub-статистика:
+### :zap: Моя GitHub-статистика:
 <img src="https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true" alt="" width="52.5%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage" alt="" width="47%"/>
 <img src="https://streak-stats.demolab.com/?user=marblefloors&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D" alt="" width="100%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&" alt="" width="100%"/>
