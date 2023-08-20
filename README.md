@@ -36,7 +36,8 @@
 ### :wave: Моя GitHub-статистика:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage)](https://github.com/marblefloors)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marblefloors&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D&width=100%)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marblefloors&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marblefloors&theme=onedark&row=1&column=6&)](https://github.com/marblefloors)
 
