@@ -9,11 +9,15 @@
 + :briefcase: *Сверстал несколько сайтов на заказ*
 + :mortar_board: *Окончил Санкт-Петербургский политехнический университет Петра Великого и получил высшее образование* :tada:
 
+___
+
 ### :speech_balloon: Социальные сети:
 <a href="https://vk.com/den.gordeev" target="blank"><img align="center" src="https://img.icons8.com/color/480/vk-circled--v1.png" alt="" height="40" width="40" /></a>
 <a href="https://t.me/d_gordeev" target="blank"><img align="center" src="https://img.icons8.com/color/480/telegram-app--v1.png" alt="" height="40" width="40"/></a>
 <a href="https://www.instagram.com/denya.gordeev/" target="blank"><img align="center" src="https://img.icons8.com/color/480/instagram-new--v1.png" alt="" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1H3AN3V7YcJoSPQquURYtw" target="blank"><img align="center" src="https://img.icons8.com/color/480/youtube-play.png" alt="" height="40" width="40" /></a>
+
+___
 
 ### :computer: Мои навыки:
 <p align="left">
@@ -29,14 +33,17 @@
     <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/c-sharp-logo.png" width="40" height="40" /> </a>
 </p>
 
-### :wrench: Мои инструменты
+___
 
+### :wrench: Мои инструменты
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/adobe-photoshop--v1.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/unity.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://img.icons8.com/color/480/canva.png" alt="adobe-photoshop--v1" alt="c" width="40" height="40" /> </a>
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a>
 <a href="https://vk.com/den.gordeev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
+
+___
 
 ### :zap: Моя GitHub-статистика:
 <img src="https://github-readme-stats.vercel.app/api?username=marblefloors&theme=ayu-mirage&show_icons=true" alt="" width="52.5%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marblefloors&layout=compact&theme=ayu-mirage" alt="" width="47%"/>
